@@ -1,0 +1,2 @@
+# LingCquestoes
+Questões de C
